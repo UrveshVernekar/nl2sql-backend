@@ -1,0 +1,2 @@
+OPENAI_API_KEY=
+DATABASE_URL=postgresql://iotlocaluser:FIRE1in2the3hole%40@localhost:5432/postgres
