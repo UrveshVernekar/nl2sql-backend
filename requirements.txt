@@ -6,3 +6,8 @@ python-dotenv
 openai
 psycopg2-binary
 httpx
+passlib[bcrypt]
+python-jose
+sqlalchemy
+passlib==1.7.4
+bcrypt==4.0.1
