@@ -4,6 +4,7 @@ from app.llm.prompts import SYSTEM_PROMPT, build_user_prompt
 from app.intent.models import NL2SQLIntent
 from app.llm.client import client
 
+
 import json
 import os
 from openai import RateLimitError
